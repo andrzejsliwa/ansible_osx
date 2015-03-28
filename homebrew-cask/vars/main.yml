@@ -1,0 +1,20 @@
+---
+ homebrew_cask_packages:
+  - alfred
+  - appcleaner
+  - dropbox
+  - google-chrome
+  - firefox
+  - iterm2
+  - virtualbox
+  - vagrant
+  - dash
+  - skype
+  - java
+  - rubymine
+  - sketch
+  - spotify
+  - mailbox
+  - fluid
+  - macvim
+  - screenhero

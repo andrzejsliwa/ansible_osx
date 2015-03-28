@@ -1,0 +1,34 @@
+---
+ homebrew_taps:
+   - caskroom/versions
+   - homebrew/versions
+   - homebrew/binary
+   - caskroom/cask
+
+ homebrew_packages:
+  - { name: brew-cask }
+  - { name: git }
+  - { name: tmux }
+  - { name: tree }
+  - { name: python }
+  - { name: zsh }
+  - { name: zsh-completions }
+  - { name: direnv }
+  - { name: ack }
+  - { name: jq }
+  - { name: coreutils }
+  - { name: vim }
+  - { name: imagemagick }
+  - { name: postgresql,
+      install_options: LC_ALL="en_US.UTF-8" LANG="en_US.UTF-8" }
+  - { name: redis }
+  - { name: rabbitmq }
+  - { name: couchdb }
+  - { name: elasticsearch }
+  - { name: nodejs }
+  - { name: openssl }
+  - { name: qt }
+  - { name: phantomjs }
+  - { name: chromedriver }
+  - { name: selenium-server-standalone }
+  - { name: watchman }
