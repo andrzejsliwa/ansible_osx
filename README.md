@@ -1,4 +1,4 @@
-# My personal setup of osx via ansible.
+# My personal setup of OSX via Ansible.
 
 ## install:
 
